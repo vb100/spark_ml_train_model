@@ -19,4 +19,4 @@ Here you also learn how to setup ML stages with Spark and build a custom ML Pipe
 At the end, you will learn hot to get model performance metrics, such as Precision, Recall, or ROC curve values.
 </p>
 
-<b>LINK TO THE FULL YOUTUBE VIDEO TUTORIAL IS <a href="https://youtu.be/7-C2ikVNInQ">HERE</a></b>
+<b>LINK TO THE FULL YOUTUBE VIDEO TUTORIAL IS <a href="https://youtu.be/7-C2ikVNInQ">HERE</a> !</b>
